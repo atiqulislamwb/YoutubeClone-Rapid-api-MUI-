@@ -13,7 +13,7 @@ const Navbar = () => {
         position: "sticky",
         background: "#000",
         justifyContent: "space-between",
-        marginTop: "15px",
+        padding: "15px",
       }}
     >
       <Link to="/" sx={{ display: "flex", alignItems: "center" }}>
